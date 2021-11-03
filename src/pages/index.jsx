@@ -16,7 +16,7 @@ export default function Home() {
           <u>Specijalizovani smo pre svega za servis Apple uređaja</u> -
           mobilnih telefona, tableta, laptopova i desktop računara, ali uspešno
           rešavamo i probleme na Android uređajima, kao i na svim ostalim kućnim
-          aparatima (TV, gaming konzole, monitori, PC računari...). i tako dalje
+          aparatima (TV, gaming konzole, monitori, PC računari...).
         </p>
       </div>
     </Page>
